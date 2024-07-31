@@ -1,0 +1,5 @@
+STORAGE: NONE
+RESTRICTION: == net8.0
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    SharpZipLib (1.4.2)

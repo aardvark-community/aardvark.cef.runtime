@@ -1,0 +1,14 @@
+type file
+id Aardvark.Cef.Runtime
+authors Aardvark Platform Team
+owners Aardvark Platform Team
+projectUrl http://github.com/aardvark-community
+licenseUrl https://raw.githubusercontent.com/chromiumembedded/cef/master/LICENSE.txt
+repositoryType git
+repositoryUrl https://github.com/aardvark-community/aardvark.cef.runtime
+description
+    Native CEF runtimes for the Aardvark platform.
+files
+    LICENSE.txt ==> .
+    Aardvark.Cef.Runtime.targets ==> build
+    cef/win-x64/**/* ==> runtimes/win-x64/native

@@ -1,0 +1,7 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <ItemGroup Condition="$([MSBuild]::IsOSPlatform('Windows'))">
+        <None Include="$(MSBuildThisFileDirectory)..\runtimes\win-x64\native\**\*" Visible="false">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+</Project>

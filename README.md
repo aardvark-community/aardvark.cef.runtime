@@ -1,4 +1,9 @@
 # Aardvark.Cef.Runtime
+
+[![Publish](https://github.com/aardvark-community/aardvark.cef.runtime/actions/workflows/publish.yml/badge.svg)](https://github.com/aardvark-community/aardvark.cef.runtime/actions/workflows/publish.yml)
+[![NuGet](https://badgen.net/nuget/v/Aardvark.Cef.Runtime)](https://www.nuget.org/packages/Aardvark.Cef.Runtime/)
+[![NuGet](https://badgen.net/nuget/dt/Aardvark.Cef.Runtime)](https://www.nuget.org/packages/Aardvark.Cef.Runtime/)
+
 Native CEF runtimes for the Aardvark platform.
 
 ## Usage

@@ -11,4 +11,4 @@ description
 files
     LICENSE.txt ==> .
     Aardvark.Cef.Runtime.targets ==> build
-    cef/win-x64/**/* ==> runtimes/win-x64/native
+    cef/**/* ==> cef
